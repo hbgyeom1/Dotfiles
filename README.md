@@ -29,8 +29,7 @@ obsidian --enable-features=UseOzonePlatform --ozone-platform=wayland --enable-wa
 
 ```bash
 vim ~/.config/code-flags.conf
---enable-features=WaylandWindowDecorations
---ozone-platform-hint=auto
+--enable-wayland-ime
 ```
 
 ```bash
