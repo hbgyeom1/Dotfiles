@@ -10,9 +10,9 @@ vim .user.zsh
 sudo vim /etc/sddm.conf.d/the_hyde_project.conf
 vim ~/.local/share/hyde/hyprland.conf
 vim ~/.config/waybar/config.ctl
+vim ~/.local/lib/hyde/wbarstylegen.sh
 vim ~/.local/share/user-places.xbel
 vim ~/.config/Code - OSS/User/settings.json
-vim ~/.local/lib/hyde/wbarstylegen.sh
 ```
 
 ```bash
