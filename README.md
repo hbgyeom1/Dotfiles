@@ -33,6 +33,7 @@ vim ~/.config/waybar/modules/workspaces##kanji.jsonc
 vim ~/.local/share/hyde/hyprland.conf
 vim ~/.config/hypr/userprefs.conf
 exec-once = fcitx5 &
+vim ~/.config/hypr/keybindings.conf
 ```
 
 # Apps
