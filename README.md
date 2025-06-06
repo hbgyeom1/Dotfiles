@@ -25,6 +25,7 @@ vim ~/.config/waybar/config.ctl
 vim ~/.local/lib/hyde/wbarstylegen.sh
 vim ~/.config/waybar/modules/clock.jsonc
 vim ~/.config/waybar/modules/battery.jsonc
+vim ~/.config/waybar/modules/workspaces##kanji.jsonc
 ```
 
 # Hyprland
