@@ -21,11 +21,11 @@ disable_ligatures always
 
 # Waybar
 ```bash
-vim ~/.config/waybar/config.ctl
-vim ~/.local/lib/hyde/wbarstylegen.sh
-vim ~/.config/waybar/modules/clock.jsonc
-vim ~/.config/waybar/modules/battery.jsonc
-vim ~/.config/waybar/modules/workspaces##kanji.jsonc
+nvim ~/.config/waybar/config.ctl
+nvim ~/.local/lib/hyde/wbarstylegen.sh
+nvim ~/.config/waybar/modules/clock.jsonc
+nvim ~/.config/waybar/modules/battery.jsonc
+nvim ~/.config/waybar/modules/workspaces##kanji.jsonc
 ```
 
 # Hyprland
