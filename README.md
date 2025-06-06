@@ -30,19 +30,19 @@ nvim ~/.config/waybar/modules/workspaces##kanji.jsonc
 
 # Hyprland
 ```bash
-vim ~/.local/share/hyde/hyprland.conf
-vim ~/.config/hypr/userprefs.conf
+nvim ~/.local/share/hyde/hyprland.conf
+nvim ~/.config/hypr/userprefs.conf
 exec-once = fcitx5 &
-vim ~/.config/hypr/keybindings.conf
+nvim ~/.config/hypr/keybindings.conf
 ```
 
 # Apps
 ```bash
-vim ~/.local/share/user-places.xbel
-vim ~/.config/code-flags.conf
+nvim ~/.local/share/user-places.xbel
+nvim ~/.config/code-flags.conf
 --enable-wayland-ime
-vim ~/.config/'Code - OSS'/User/settings.json
-vim ~/.local/share/applications/obsidian.desktop
+nvim ~/.config/'Code - OSS'/User/settings.json
+nvim ~/.local/share/applications/obsidian.desktop
 obsidian --enable-features=UseOzonePlatform --ozone-platform=wayland --enable-wayland-ime
 ```
 
