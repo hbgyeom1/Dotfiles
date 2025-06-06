@@ -8,13 +8,13 @@ cd ~/Dotfiles
 
 # System
 ```bash
-vim .user.zsh
-sudo vim /etc/sddm.conf.d/the_hyde_project.conf
+nvim .user.zsh
+sudo nvim /etc/sddm.conf.d/the_hyde_project.conf
 ```
 
 # Kitty
 ```bash
-vim ~/.config/kitty/kitty.conf
+nvim ~/.config/kitty/kitty.conf
 font_size 12.0
 disable_ligatures always
 ```
