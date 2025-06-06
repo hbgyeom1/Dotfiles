@@ -23,6 +23,7 @@ disable_ligatures always
 ```bash
 vim ~/.config/waybar/config.ctl
 vim ~/.local/lib/hyde/wbarstylegen.sh
+vim ~/.config/waybar/config.jsonc
 ```
 
 # Hyprland
