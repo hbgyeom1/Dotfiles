@@ -1,6 +1,6 @@
 # Base
 ```bash
-git clone git@github.com:hbgyeom1/Dotfiles.git
+git clone git@github.com:hbgyeom1/Dotfiles.git ~/Dotfiles
 cd ~/Dotfiles
 ./install.sh
 ./setup.sh
